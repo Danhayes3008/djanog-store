@@ -25,7 +25,7 @@ from django.views import static
 from .settings import MEDIA_ROOT
 
 urlpatterns = [
-    url(r'^$', all_products, index, name='index'),
+    url(r'^$', all_products, name='index'),
     url(r'^admin/', admin.site.urls),
     url(r'^accounts/', include(accounts_urls)),
     url(r'^product/', include(urls_products)),
