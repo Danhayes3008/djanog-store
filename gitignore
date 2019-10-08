@@ -1,5 +1,6 @@
-* migrations\__pycache__/
+__pycache__
+.~c9*
 env.py
-product/migrations
-product/__pycache__
-checkout/migrations
+*.png
+static/
+media/
