@@ -1,3 +1,6 @@
 *.sqlite3
 env.py
 product/migrations
+checkout/migrations
+checkout/migrations
+checkout/__pycache__
