@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/Danhayes3008/djanog-store.svg?branch=master)](https://travis-ci.org/Danhayes3008/djanog-store)
