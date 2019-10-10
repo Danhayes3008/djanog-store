@@ -12,6 +12,7 @@ mccabe==0.6.1
 parso==0.1.1
 pbr==5.4.2
 pytz==2019.2
+psycopg2~=2.7.3.1
 singledispatch==3.4.0.3
 six==1.12.0
 stevedore==1.30.1
